@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -45,6 +45,6 @@
   <p>All processing happens locally on your device.</p>
 
   <h2>Contact</h2>
-  <p>If you have questions about this policy, please contact: <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+  <p>If you have questions about this policy, please contact: <a href="mailto:yuyiqi.brand@gmail.com">yuyiqi.brand@gmail.com</a>.</p>
 </body>
 </html>
